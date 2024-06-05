@@ -2,10 +2,10 @@
 const testimonialData = [
 	{
 		image: "/t-avt-1.png",
-		name: "Anne Smith",
+		name: "Falgun Kumar Sinha",
 		position: "Customer",
 		message:
-			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+			"Reeju is an exceptional full stack developer whom I have had the pleasure of knowing personally. His passion for technology and commitment to excellence are evident in everything he does. I’ve been impressed by his depth of knowledge and his ability to tackle complex problems with ease. Reeju's dedication and skill make him truly stand out in his field.",
 	},
 	{
 		image: "/t-avt-2.png",
