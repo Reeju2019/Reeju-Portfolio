@@ -1,0 +1,10 @@
+<svg width="200" height="50">
+  <path id="text-path" d="M265.19 33V28.644H269.326V33H265.19Z" fill="#F13024" />
+  <text font-size="24" font-family="Arial">
+    <textPath xlink:href="#text-path" startOffset="0">
+      <tspan font-weight="bold" fill="#FFFFFF">Reeju</tspan>
+      <tspan fill="#FFFFFF"> Bhattacherji</tspan>
+      <tspan fill="#FF0000">.</tspan>
+    </textPath>
+  </text>
+</svg>
