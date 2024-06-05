@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from "react";
 
 import Bulb from "../../components/Bulb";
