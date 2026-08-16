@@ -23,7 +23,7 @@ verification:
 
 ```yaml
 id: TASK-002
-status: in_progress
+status: done
 purpose: Deliver and publish the evidence-led responsive portfolio refresh.
 batch_scope:
   - Add a centralized static content model using approved facts and public repository evidence.
